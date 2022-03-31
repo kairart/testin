@@ -71,7 +71,7 @@ font-family: 'Pacifico', cursive;
 
 .navbar-brand {
   position: absolute;
-  margin-top: 6.6em;
+  margin-top: 7.5em;
 }
 
 body {
@@ -278,10 +278,10 @@ div#slider figure {
   overflow: hidden;
   border: 10px solid white;
   border-radius: 5px;
-  margin-left:;
+  margin-left:1em;
   margin-top: 1.3em;
   margin-bottom: 0.7em;
-  margin-right: 1.5em;
+  margin-right: 1em;
 }
 
 .slides1 {
@@ -315,10 +315,10 @@ div#slider figure {
   overflow: hidden;
   border: 10px solid white;
   border-radius: 5px;
-  margin-left:;
+  margin-left:1em;
   margin-top: 1.3em;
   margin-bottom: 0.7em;
-  margin-right: 1.5em;
+  margin-right: 1em;
 }
 
 .slides2 {
